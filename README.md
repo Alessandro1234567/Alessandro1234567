@@ -1,16 +1,21 @@
-## Hi there 👋
+### Ciao, sono Alessandro 👋
 
-<!--
-**Alessandro1234567/Alessandro1234567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tuoaccount)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandro.zago18@gmail.com)
 
-Here are some ideas to get you started:
+### 😄 Sono un ragazzo di [città], Italia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Sto lavorando a [progetto]
+- 🌱 Sto imparando [tecnologia]
+- 📫 Come contattarmi: [email/social]
+
+## 🛠️ Le mie competenze
+
+**Linguaggi**
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Tecnologie**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
