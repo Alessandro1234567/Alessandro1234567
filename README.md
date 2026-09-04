@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://zagostudio.com"><img src="https://img.shields.io/badge/Website-zagostudio.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://instagram.com/alessandro.zagoo"><img src="https://img.shields.io/badge/Instagram-alessandro.zagoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/alessandro.zagooo"><img src="https://img.shields.io/badge/Instagram-alessandro.zagoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:alessandro.zago04@gmail.com"><img src="https://img.shields.io/badge/Email-Contattami-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
